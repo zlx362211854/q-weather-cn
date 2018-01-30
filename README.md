@@ -1,3 +1,6 @@
+### github 
+[github](https://github.com/zlx362211854/q-weather-cn)
+
 ### install 
 ```
 npm install q-weather-cn -g
