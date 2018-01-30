@@ -1,0 +1,25 @@
+{
+  "version": "1.0.1",
+  "author": {
+    "name": "zlx"
+  },
+  "bin": {
+    "qw": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "cli-spinner": "^0.2.7",
+    "crypto": "0.0.3",
+    "optimist": "^0.6.1",
+    "request-promise": "^2.0.1"
+  },
+  "description": "a CLI tool to query weather",
+  "directories": {},
+  "license": "MIT",
+  "main": "index.js",
+  "name": "q-weather-cn",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
